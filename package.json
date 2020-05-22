@@ -1,0 +1,19 @@
+{
+  "name": "chainer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pmzi/chainer.git",
+  "author": "Pouya <pouya.mozafar@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "microbundle": "^0.12.0"
+  },
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.module.js",
+  "unpkg": "dist/index.umd.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  }
+}
