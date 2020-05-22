@@ -1,6 +1,6 @@
 {
   "name": "chain-filler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/pmzi/chainer.git",
   "author": "Pouya <pouya.mozafar@gmail.com>",
